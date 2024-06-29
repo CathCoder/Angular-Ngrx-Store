@@ -1,0 +1,74 @@
+{
+  "associates": [
+    {
+      "id": 1,
+      "name": "ABRAHAM M",
+      "email": "kirubacatherine123ki@gmail.com",
+      "phone": "09080485600",
+      "associategroup": "level2",
+      "address": "1/110 SOUTH STREET",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "santhosh",
+      "email": "santhosh@gmail.com",
+      "phone": "8390283930",
+      "associategroup": "level1",
+      "address": "north street",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "Anu",
+      "email": "anu@gmail.com",
+      "phone": "3393948399",
+      "associategroup": "level1",
+      "address": "djhdkj",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "sangeetha",
+      "email": "sangeetha@gmail.com",
+      "phone": "ie003839",
+      "associategroup": "level1",
+      "address": "383909",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "Anu",
+      "email": "anu@gmail.com",
+      "phone": "9876543216",
+      "associategroup": "level1",
+      "address": "North Car Street",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": 0,
+      "name": "Sangeetha",
+      "email": "sangeetha@gmail.com",
+      "phone": "9272527299",
+      "associategroup": "level2",
+      "address": "west karikalan street",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "kiruba",
+      "email": "kiruba@gmail.com",
+      "phone": "664578899",
+      "associategroup": "level2",
+      "address": "east street",
+      "type": "SUPPLIER",
+      "status": true
+    }
+  ]
+}
